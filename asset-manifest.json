@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Buscador_Cep/static/css/main.760a86bf.css",
+    "main.js": "/React_Buscador_Cep/static/js/main.e202522f.js",
+    "index.html": "/React_Buscador_Cep/index.html",
+    "main.760a86bf.css.map": "/React_Buscador_Cep/static/css/main.760a86bf.css.map",
+    "main.e202522f.js.map": "/React_Buscador_Cep/static/js/main.e202522f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.760a86bf.css",
+    "static/js/main.e202522f.js"
+  ]
+}
